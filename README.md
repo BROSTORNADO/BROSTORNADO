@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **react js , Frontend technologies**
 
-- 💬 Ask me about **react , javascript**
+- 💬 Ask me about **React , javascript , html , css  **
 
 - 📫 How to reach me **b.cheikhahmed98@gmail.com**
 
