@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed abdallahi</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding animation">
+<img align="right" width="400" src="https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNvZGluZ3xlbnwwfHwwfHx8MA%3D%3D" alt="Coding animation">
 
 - 🌱 I’m currently learning **Node.js, Express.js, Full Stack Web Development (MERN), Next.js, React Native**
 
